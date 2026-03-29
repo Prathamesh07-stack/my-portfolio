@@ -96,12 +96,14 @@ const WhatIDo = () => {
               </p>
               <h5>Skillset &amp; tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LangChain</div>
-                <div className="what-tags">LangGraph</div>
-                <div className="what-tags">RAG pipelines</div>
-                <div className="what-tags">Vector Databases</div>
-                <div className="what-tags">Prompt Engineering</div>
+                <div className="what-tags">LangChain/LangGraph</div>
+                <div className="what-tags">CrewAI</div>
+                <div className="what-tags">RAG Pipelines</div>
+                <div className="what-tags">Vector DBs (FAISS)</div>
+                <div className="what-tags">Hugging Face</div>
+                <div className="what-tags">Agentic Workflows</div>
                 <div className="what-tags">OpenAI / Gemini</div>
+                <div className="what-tags">Prompt Engineering</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -135,10 +137,12 @@ const WhatIDo = () => {
               <h5>Skillset &amp; tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Solidity</div>
-                <div className="what-tags">Truffle / Ganache</div>
-                <div className="what-tags">Web3 Wallets</div>
+                <div className="what-tags">Ethers.js / Web3.js</div>
+                <div className="what-tags">Hardhat</div>
                 <div className="what-tags">DeFi Protocols</div>
+                <div className="what-tags">Web3 Wallets</div>
                 <div className="what-tags">Smart Contracts</div>
+                <div className="what-tags">IPFS</div>
                 <div className="what-tags">TypeScript</div>
               </div>
               <div className="what-arrow"></div>
