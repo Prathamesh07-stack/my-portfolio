@@ -3,9 +3,9 @@ import {
   FaLinkedinIn,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
-import { TbNotes } from "react-icons/tb";
+
 import { useEffect } from "react";
-import HoverLinks from "./HoverLinks";
+
 
 const SocialIcons = () => {
   useEffect(() => {
@@ -76,17 +76,7 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a
-        className="resume-button"
-        href="https://drive.google.com/file/d/1NFhGevnVoHBYUGlKWqKQpuEqAUACdaLk/view?usp=sharing"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <HoverLinks text="RESUME" />
-        <span>
-          <TbNotes />
-        </span>
-      </a>
+
     </div>
   );
 };
