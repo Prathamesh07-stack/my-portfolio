@@ -206,7 +206,21 @@
 }
 .what-content-in {
   height: 100%;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 5px;
+}
+
+/* Custom minimal scrollbar */
+.what-content-in::-webkit-scrollbar {
+  width: 4px;
+}
+.what-content-in::-webkit-scrollbar-track {
+  background: transparent;
+}
+.what-content-in::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
 }
 .what-content-in h5 {
   font-weight: 300;
