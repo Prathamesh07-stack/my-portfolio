@@ -16,10 +16,34 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
+                <h4>Ai-ML Engineer L1</h4>
+                <h5>ClaySys Technologies · Goa, Remote</h5>
+              </div>
+              <h3>NOW</h3>
+            </div>
+            <p>
+              Working on the development of intelligent AI solutions, including
+              Machine Learning, Deep Learning, and Generative AI applications.
+              Responsible for building, optimizing, and deploying AI models,
+              integrating LLM-powered systems, and collaborating with teams to
+              deliver scalable, business-driven solutions. Actively developing
+              production-grade Generative AI applications — designing and
+              training AI agents using advanced prompt engineering techniques,
+              implementing Retrieval-Augmented Generation (RAG) pipelines, and
+              integrating multiple LLM providers (OpenAI, Anthropic, etc.) with
+              external tools and services. Hands-on experience binding and
+              configuring MCP (Model Context Protocol) servers and using MCP
+              Inspector for debugging and validating tool integrations in
+              agentic workflows.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
                 <h4>Freelance AI/Web3 Developer</h4>
                 <h5>Rescape Technologies Pvt Ltd</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2026</h3>
             </div>
             <p>
               Developing a DeFi-enabled neobank wallet integrating Web3 wallets
